@@ -1,0 +1,23 @@
+1. Applying cloud characteristics to a solution that uses cloud services and features to meet technical and business requirements.
+
+2. Reliability
+Cost Optimization
+
+3. Apply software engineering principles and methodology to infrastructure as code.
+Review and improve processes and procedures on a continuous cycle.
+
+4. Design the web tier to communicate with the application tier through the Elastic Load Balancing (ELB) service.
+
+5. Amazon CloudWatch detects a system failure. It initiates automation to provision a new server.
+
+6. Provision the servers that are needed and stop services when they are not being used.
+
+7. Use a bucket in the Region closest to the company headquarters. All users access the data through Amazon CloudFront.
+
+8. Create a presigned URL to the object that expires in 24 hours, and give it to the consultant.
+
+9. Compliance with laws and regulations:
+Latency reduction for end users: 
+
+10. Application resiliency during system failures
+Protection against localized natural disasters

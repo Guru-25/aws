@@ -1,0 +1,25 @@
+1. AWS manages database patches for a database on a managed database service.
+
+2. The data is highly structured.
+Student, course, and registration data are stored in many different tables.
+
+3. Amazon DynamoDB
+
+4. A high amount of read activity on player-created objects and a low amount of writes
+Unpredictable object attributes for player-created objects
+
+5. Amazon Neptune
+
+6. Amazon Aurora
+
+7. Security groups to control network access to individual RDS instances
+A virtual private cloud (VPC) to provide instance isolation
+Encryption both at rest and in transit to protect sensitive data
+
+8. Encryption to protect sensitive data
+AWS Identity and Access Management (IAM) policies to define access at the table, item, or attribute level
+An Amazon Virtual Private Cloud (Amazon VPC) gateway endpoint to prevent traffic from traversing the internet
+
+9. Use AWS Schema Conversion Tool (AWS SCT) to convert the schema, and then use AWS Database Migration Service (AWS DMS) to migrate the data.
+
+10. Set up an RDS MySQL Multi-AZ DB instance. Configure a read replica in a different Region.

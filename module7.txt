@@ -1,0 +1,24 @@
+1. A logically isolated virtual network that you define in the AWS Cloud
+
+2. EC2 instance inside a private subnet
+
+3. Subnet A: 172.16.0.0/23 (512 addresses) Subnet B: 172.16.2.0/23 (512 addresses)
+
+4. Without public IP addresses, in a subnet with a default route to a network address translation (NAT) gateway
+
+5. Associate an Elastic IP address with the EC2 instance.
+
+6. Add a rule to the EC2 instance security group to allow traffic from the bastion host security group on port 22.
+Add a rule to the bastion host security group to allow traffic on port 22 from your source IP address.
+
+7. Add rules to the subnet custom network ACL to allow traffic from and to allowed internet addresses.
+
+8. Create one subnet per Availability Zone for each group of hosts that have unique routing requirements.
+Divide the VPC network range evenly across all Availability Zones that are available.
+Reserve some address space for future use.
+
+9. Amazon CloudWatch
+Amazon S3 bucket
+Amazon Kinesis Data Firehose
+
+10. Gateway VPC endpoint

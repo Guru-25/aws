@@ -1,0 +1,25 @@
+1. Ability to run any type of workload
+Complete control of computing resources
+
+2. Selling or sharing software solutions packaged as an AMI
+Using an AMI as a server backup for Amazon EC2 instances
+Launching instances with the same configuration
+
+3. Stop an Amazon EBS backed instance, change its instance type, and start the instance.
+
+4. Memory optimized
+Storage optimized
+
+5. Use the user data of each instance to access the MAC address through the instance metadata.
+
+6. (incorrect) - please open pull request if you got correct answer
+
+7. Provisioned IOPS solid state drive (SSD)
+
+8. High availability
+Automatic scaling
+
+9. Fully managed Windows file servers
+
+10. Spot Instances offer spare compute capacity at discounted prices and can be interrupted.
+With On-Demand Instances, customers can pay for compute capacity by usage time with no long-term commitments.

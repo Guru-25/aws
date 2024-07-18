@@ -1,0 +1,22 @@
+1. Apply security at all layers of an architecture.
+
+2. AWS is responsible for the physical security of data centers.
+Customers are responsible for managing their user data.
+
+3. Craft security policies that limit access to specific tasks.
+Grant access only as needed.
+
+4. With IAM, you can grant principals granular access to resources.
+
+5. Individuals, applications, and services can assume roles.
+They provide temporary security credentials.
+
+6. Create an admin user and perform most admin tasks with this user instead of the root user.
+
+7. It checks for explicit deny statements before it checks for explicit allow statements.
+
+8. Identity-based policies are attached to a user, group, or role.
+
+9. Effect
+
+10. The statement element contains other elements that together define what is allowed or denied.

@@ -1,0 +1,23 @@
+1. Amazon S3
+
+2. An internet-accessible storage location for video files that an external website can access
+
+3. HTML files and image files
+Client-side scripts
+Video and sound files
+
+4. Enabling server-side encryption on the S3 bucket before uploading sensitive data
+Using client-side encryption to protect data in transit before it is sent to Amazon S3
+
+5. Maintain different versions of files.
+Recover deleted files.
+
+6. Store case data in S3 Standard. Use a lifecycle policy to move the data into S3 Standard-Infrequent Access (S3 Standard-IA) after 30 days.
+
+7. Amazon S3 Transfer Acceleration
+
+8. Amazon S3 multipart uploads
+
+9. S3 One Zone-Infrequent Access (S3 One Zone-IA)
+
+10. S3 Glacier Deep Archive
