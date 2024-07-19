@@ -1,0 +1,19 @@
+1. Connect the VPC to AWS Transit Gateway
+
+2. Transit gateway peering attachment
+
+3. VPC Peering
+
+4. Use VPC Interfaces , Create a VPC Gateway endpoint
+
+5. Add a peering connection between A and B
+
+6. AWS Site-to-Site VPN
+
+7. AWS Global Accelerator
+
+8. AWS Direct Connect
+
+9. An on-demand AWS Site-to-Site VPN
+
+10. Implement Direct Connect
