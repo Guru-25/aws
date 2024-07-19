@@ -1,0 +1,19 @@
+1. Lack of version control , Alignment with reliability design principle
+
+2. Deploy Env , Propagates updates
+
+3. AWS Quick Start
+
+4. An AI 
+ 
+5. Enhance Security , Accelerate coding tasks
+
+6. AWS Service to model ,create and manage AWS Resources
+
+7. A Graphical design interface
+
+8. Use Conditions
+
+9. Create a change set
+
+10. Run drift detection on the stack
