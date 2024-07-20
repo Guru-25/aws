@@ -1,19 +1,22 @@
-1.high speed
+1. high speed
 
-2.static data
+2. static data
 
-3.reduce response latency
+3. reduce response latency
 
-4. Web objects, video files
+4. Web objects
+video files
 
-5.multi tiered
+5. multi tiered
 
-6.frequently accessed
+6. frequently accessed
 
-7.S3, cloudfront
+7. S3
+cloudfront
 
-8.edge location
+8. edge location
 
-9.read data elastic cache, write data
+9. read data elastic cache
+write data
 
-10 . Write through
+10. Write through

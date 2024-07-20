@@ -4,7 +4,8 @@
 
 3. VPC Peering
 
-4. Use VPC Interfaces , Create a VPC Gateway endpoint
+4. Use VPC Interfaces
+Create a VPC Gateway endpoint
 
 5. Add a peering connection between A and B
 

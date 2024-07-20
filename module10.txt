@@ -12,7 +12,7 @@
 
 7. network lb
 
-8. an Auto scaling group.... Application LB
+8. an Auto scaling group - Application LB
 
 9. geolocation
 

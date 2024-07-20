@@ -1,14 +1,18 @@
-1. Lack of version control , Alignment with reliability design principle
+1. Lack of version control
+Alignment with reliability design principle
 
-2. Deploy Env , Propagates updates
+2. Deploy Env
+Propagates updates
 
 3. AWS Quick Start
 
 4. An AI 
 
-5. Enhance Security , Accelerate coding tasks
+5. Enhance Security
+Accelerate coding tasks
 
-6. AWS Service to model ,create and manage AWS Resources
+6. AWS Service to model
+create and manage AWS Resources
 
 7. A Graphical design interface
 
