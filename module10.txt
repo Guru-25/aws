@@ -2,7 +2,7 @@
 
 2. scheduled
 
-3. AWS Global Accelerator
+3. target
 
 4. change instance class Or size
 
@@ -16,4 +16,4 @@
 
 9. geolocation
 
-10. (please open pull request if you find)
+10. Create an Amazon CloudWatch alarm to send an email message when the account billing exceeds 0.

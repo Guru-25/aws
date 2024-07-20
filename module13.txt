@@ -1,0 +1,25 @@
+1. components
+
+2. Stores and optionally encrypts messages until they are processed and deleted.
+Enables you to decouple and scale microservices, distributed systems, and serverless applications.
+Requires a consumer to poll the queue for messages.
+
+3. a message might
+messages - any order
+
+4. the application places
+
+5. a fully
+
+6. notify
+send a push
+send a text
+
+7. Message delivery to a URL.
+Message delivery to an Amazon Simple Queue Service (Amazon SQS) queue.
+
+8. Send the S3 event to an Amazon Simple Notification Service (Amazon SNS) topic that both Lambda functions subscribe to.
+
+9. message
+
+10. Leverage an existing on-premises application that uses Apache ActiveMQ to communicate between microservices.
