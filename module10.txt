@@ -1,0 +1,19 @@
+1. can launch inst in multiple zones.
+
+2. scheduled
+
+3. AWS Global Accelerator
+
+4. change instance class Or size
+
+5. adding aurora replica instance
+
+6. adjust provisioned throughout
+
+7. network lb
+
+8. an Auto scaling group.... Application LB
+
+9. geolocation
+
+10. (please open pull request if you find)
