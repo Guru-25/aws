@@ -12,7 +12,8 @@ Storage optimized
 
 5. Use the user data of each instance to access the MAC address through the instance metadata.
 
-6. (incorrect) - please open pull request if you got correct answer
+6. By default, user data runs only once, when an instance is launched.
+The cloud architect must remove the config_user_scripts file to rerun user data scripts.
 
 7. Provisioned IOPS solid state drive (SSD)
 
