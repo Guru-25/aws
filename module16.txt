@@ -1,0 +1,20 @@
+1. RPO is the maximum acceptable data loss, measured in time. RTO is the maximum acceptable time until recovery.
+
+2. use AWS CloudFormation templates to deploy duplicate environments in the same Region.
+
+3. enable cross-Region replication on the bucket and copy existing objects onto themselves
+
+4. store essential data separately from the instance, and develop rapid rebuild processes for compute instances.
+
+5. Amazon Route 53.
+
+6. Most cost-effective, but highest recovery time objective (RTO)
+
+7. Warm standby has a scaled-down version of all infrastructure that scales as necessary and within pre-defined limits to meet the load when a disaster occurs.
+Pilot light has minimal infrastructure that always runs. The rest of the infrastructure does not run until a disaster occurs.
+
+8. 
+
+9. Warm standby.
+
+10. 
